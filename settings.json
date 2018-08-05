@@ -1,0 +1,43 @@
+{
+    "auto_indent": true,
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+    "default_line_ending": "unix",
+    "file_exclude_patterns":
+    [
+        "._*",
+        "*.svn",
+        "*.git",
+        "*.hg",
+        "CVS",
+        "*tmp/cache",
+        "*._*",
+        "*.DS_Store"
+    ],
+    "font_size": 17,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "match_brackets": false,
+    "match_brackets_angle": false,
+    "match_brackets_braces": false,
+    "match_brackets_content": false,
+    "match_brackets_square": false,
+    "match_tags": false,
+    "spacegray_sidebar_font_xlarge": true,
+    "spacegray_tabs_auto_width": true,
+    "spacegray_tabs_font_xlarge": true,
+    "spacegray_tabs_xlarge": true,
+    "tab_completion": true,
+    "tab_size": 4,
+    "tabs_medium": true,
+    "theme": "Spacegray Eighties.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_separators":
+    [
+        "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+    ],
+    "word_wrap": false
+}
